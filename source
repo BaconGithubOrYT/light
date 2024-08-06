@@ -1,0 +1,5 @@
+wait()
+hrp = game.Players.LocalPlayer.Character.HumanoidRootPart
+local light = Instance.new("PointLight", hrp)
+light.Brightness = 2
+light.Range = 5744782738732723647473732737
